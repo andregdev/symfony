@@ -1,1 +1,1 @@
-# RubyGarage symfony test task
+# RubyGarage test task
