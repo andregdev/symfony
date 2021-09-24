@@ -8,6 +8,8 @@ Run command for install your environment:
 
 Install Symfony:  
 - docker-compose exec php /bin/bash
+- docker-compose exec database /bin/bash
+
 - symfony check:requirements
 - symfony new .
 - composer req --dev maker ormfixtures fakerphp/faker
